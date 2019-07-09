@@ -1,0 +1,34 @@
+{
+  "Notes": [
+    {
+      "id": 1,
+      "title": "Angular Meeting",
+      "note": "Process of angular assignment."
+    },
+    {
+      "id": 2,
+      "title": "Javascript Meeting",
+      "note": "Javascript from scratch for dummies."
+    },
+    {
+      "title": "Buy Weed",
+      "note": "Buy 1 ton Weed.",
+      "id": 3
+    },
+    {
+      "title": "Burn the house",
+      "note": "Burn someone's house.",
+      "id": 4
+    },
+    {
+      "title": "Buy Weapons",
+      "note": "Buy a bazooka",
+      "id": 5
+    },
+    {
+      "title": "Create Chaos",
+      "note": "Make a chaos in store.",
+      "id": 6
+    }
+  ]
+}
